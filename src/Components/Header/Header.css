@@ -1,0 +1,11 @@
+.navbar {
+  width: 100%;
+  margin-top: 20px;
+}
+.routs {
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
