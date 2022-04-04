@@ -1,0 +1,36 @@
+.user {
+  width: 300px;
+  height: 480px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  position: relative;
+}
+.image-container {
+  width: 100%;
+  text-align: center;
+}
+.image-container img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 7px;
+}
+.user-info {
+  margin: 0 14px;
+  text-align: center;
+}
+.user-info p {
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+.user-name {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 25px;
+  margin-top: 7px;
+}
+.rating {
+  font-weight: bold;
+}
