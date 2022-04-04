@@ -1,6 +1,9 @@
-.navbar {
+.nav-container {
   width: 100%;
-  margin-top: 20px;
+}
+.navbar {
+  width: 50%;
+  margin: 20px auto;
 }
 .routs {
   color: black;
