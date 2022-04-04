@@ -1,0 +1,96 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Amari Vice",
+    "ratings": 4,
+    "img": "https://randomuser.me/api/portraits/men/62.jpg",
+    "description": ""
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Cameron Mabry",
+    "ratings": 5,
+    "img": "https://randomuser.me/api/portraits/men/51.jpg",
+    "description": ""
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Fabian Rich",
+    "ratings": 4,
+    "ratingsCount": 3972,
+    "img": "https://randomuser.me/api/portraits/men/57.jpg",
+    "description": ""
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Kobe Luker",
+    "ratings": 5,
+    "ratingsCount": 1764,
+    "img": "https://randomuser.me/api/portraits/men/64.jpg",
+    "description": ""
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Steven Urias",
+    "ratings": 4,
+    "ratingsCount": 799,
+    "img": "https://randomuser.me/api/portraits/men/42.jpg",
+    "description": ""
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Krich Lufian",
+    "ratings": 3,
+    "ratingsCount": 4372,
+    "img": "https://randomuser.me/api/portraits/men/28.jpg",
+    "description": ""
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Grace Dame",
+    "ratings": 4,
+    "ratingsCount": 2870,
+    "img": "https://randomuser.me/api/portraits/men/18.jpg",
+    "description": ""
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "name": "Jared Salter",
+    "ratings": 4,
+    "ratingsCount": 1360,
+    "img": "https://randomuser.me/api/portraits/men/22.jpg",
+    "description": ""
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "name": "Kade Lam",
+    "ratings": 5,
+    "ratingsCount": 1976,
+    "img": "https://randomuser.me/api/portraits/men/7.jpg",
+    "description": ""
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Evan Hawlett",
+    "ratings": 4,
+    "ratingsCount": 565,
+    "img": "https://randomuser.me/api/portraits/men/54.jpg",
+    "description": ""
+  },
+  {
+    "id": "30698483-f7aa-49ba-9de9-9070f64dc263",
+    "name": "TanJiv Jinnah",
+    "ratings": 5,
+    "ratingsCount": 35,
+    "img": "https://randomuser.me/api/portraits/men/11.jpg",
+    "description": ""
+  },
+  {
+    "id": "02871edc-272b-4e20-bcc2-b32681213b3c",
+    "name": "Bhadur Biplob",
+    "ratings": 4,
+    "ratingsCount": 68,
+    "img": "https://randomuser.me/api/portraits/men/66.jpg",
+    "description": ""
+  }
+]
