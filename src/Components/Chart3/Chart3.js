@@ -4,7 +4,8 @@ import { Pie, PieChart, Tooltip } from "recharts";
 const Chart3 = ({ data }) => {
   return (
     <div>
-      <PieChart width={500} height={500}>
+      <h3 style={{ textAlign: "center" }}>Pie Chart</h3>
+      <PieChart width={400} height={400}>
         <Pie
           dataKey={"sell"}
           isAnimationActive={false}
