@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1. This is My assignment no-9
-2. There is so many component i have used.
+1. My project is About a asus laptop review.
+2. I used custom hook and conditional rendring.
 3. The About page is empty please ignore it.
-4. i can't make it responsive . cos short of time.
-5. my project are done.
+4. The site is withOut responsive.
+5. my project is done.
