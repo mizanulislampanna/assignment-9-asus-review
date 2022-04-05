@@ -1,9 +1,9 @@
 # ASUS ZenBOOk flip
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site link [https://lovely-fairy-bf85fb.netlify.app/home](https://lovely-fairy-bf85fb.netlify.app/home).
 
-1. My project is About a asus laptop review.
-2. I used custom hook and conditional rendring.
-3. The About page is empty please ignore it.
-4. The site is withOut responsive.
-5. my project is done.
+• My project is About a asus laptop review.
+• I used custom hook and conditional rendring.
+• The About page is empty please ignore it.
+• The site is withOut responsive.
+• my project is done.
