@@ -5,11 +5,11 @@
   border-radius: 8px;
   position: relative;
 }
-.image-container {
+.review-image-container {
   width: 100%;
   text-align: center;
 }
-.image-container img {
+.review-image-container img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -33,4 +33,7 @@
 }
 .rating {
   font-weight: bold;
+}
+.fontawsome-icon {
+  color: gold;
 }
